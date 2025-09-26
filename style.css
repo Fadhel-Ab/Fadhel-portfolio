@@ -290,7 +290,6 @@ nav a{
         align-items: end;
         display: none;
         justify-content: right;
-        display: block;
         width: 100%;
     }
     .header-right a{
@@ -388,4 +387,5 @@ nav a{
         font-size: 15px;
         width: fit-content;
     }
+
 }
